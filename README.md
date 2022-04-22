@@ -6,7 +6,7 @@ Python Developer
 
 I am passionate about learning the modern technologies, specially Artificial Intelligence and Machine Learning.
 
-*   🌍  I'm based in Amravati,MH,INDIA.
+*   🌍  I'm from Amravati,MH,INDIA.
 *   ✉️  You can contact me at [tejaslakade99@gmail.com](mailto:tejaslakade99@gmail.com)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on ML and AI Projects
